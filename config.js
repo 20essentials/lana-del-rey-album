@@ -1,0 +1,23 @@
+export const nameBand = ' LANA DEL REY';
+export let nameSongs = [
+	"SUMMERTIME SADNESS (SPED UP)", /*1*/
+	"BORN TO DIE", /*2*/
+	"SUMMERTIME SADNESS", /*3*/
+	"YOUNG AND BEAUTIFUL", /*4*/
+	"VIDEO GAMES", /*5*/
+	"BLUE JEANS", /*6*/
+	"WEST COAST", /*7*/
+	"BROOKLYN BABY", /*8*/
+	"SAD GIRL", /*9*/
+	"SALVATORE", /*10*/
+	"THE BLACKEST DAY", /*11*/
+	"BLACK BEAUTY", /*12*/
+	"SHADES OF COOL", /*13*/
+	"CRUEL WORLD", /*14*/
+	"OLD MONEY", /*15*/
+	"MONEY POWER GLORY", /*16*/
+	"ULTRAVIOLENCE", /*17*/
+	"PRETTY WHEN YOU CRY", /*18*/
+	"THE OTHER WOMAN", /*19*/
+	"CINNAMON GIRL", /*20*/
+]
